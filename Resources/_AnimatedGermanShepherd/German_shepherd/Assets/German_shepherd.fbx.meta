@@ -1,0 +1,2976 @@
+fileFormatVersion: 2
+guid: c99082bcf9bf28147a3d7d0304f80f06
+timeCreated: 1497722200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Arm_Stretch_L
+    100006: Arm_Stretch_R
+    100008: Armature
+    100010: Belly
+    100012: Chest
+    100014: ear_L
+    100016: ear_R
+    100018: FATHER
+    100020: Foot_IK_L
+    100022: Foot_IK_Pole_L
+    100024: Foot_IK_Pole_R
+    100026: Foot_IK_R
+    100028: Foot_L
+    100030: Foot_R
+    100032: Forearm_IK_L
+    100034: Forearm_IK_Pole_L
+    100036: Forearm_IK_Pole_R
+    100038: Forearm_IK_R
+    100040: Forearm_L
+    100042: Forearm_R
+    100044: //RootNode
+    100046: Hand_L
+    100048: Hand_R
+    100050: Head
+    100052: Leg_L
+    100054: Leg_R
+    100056: Leg_Stretch_L
+    100058: Leg_Stretch_R
+    100060: Lyp
+    100062: Lyp_L
+    100064: Lyp_R
+    100066: Mouth
+    100068: neck_01
+    100070: neck_02
+    100072: Pelvis_L
+    100074: Pelvis_R
+    100076: Sholder_L
+    100078: Sholder_R
+    100080: spin_01
+    100082: spin_02
+    100084: spin_03
+    100086: tail_00
+    100088: tail_01
+    100090: tail_02
+    100092: tail_03
+    100094: tail_04
+    100096: Thigh_L
+    100098: Thigh_R
+    100100: tongue_01
+    100102: tongue_02
+    100104: tongue_03
+    100106: tongue_04
+    100108: Wolf
+    100110: German_shepherd
+    400000: Arm_L
+    400002: Arm_R
+    400004: Arm_Stretch_L
+    400006: Arm_Stretch_R
+    400008: Armature
+    400010: Belly
+    400012: Chest
+    400014: ear_L
+    400016: ear_R
+    400018: FATHER
+    400020: Foot_IK_L
+    400022: Foot_IK_Pole_L
+    400024: Foot_IK_Pole_R
+    400026: Foot_IK_R
+    400028: Foot_L
+    400030: Foot_R
+    400032: Forearm_IK_L
+    400034: Forearm_IK_Pole_L
+    400036: Forearm_IK_Pole_R
+    400038: Forearm_IK_R
+    400040: Forearm_L
+    400042: Forearm_R
+    400044: //RootNode
+    400046: Hand_L
+    400048: Hand_R
+    400050: Head
+    400052: Leg_L
+    400054: Leg_R
+    400056: Leg_Stretch_L
+    400058: Leg_Stretch_R
+    400060: Lyp
+    400062: Lyp_L
+    400064: Lyp_R
+    400066: Mouth
+    400068: neck_01
+    400070: neck_02
+    400072: Pelvis_L
+    400074: Pelvis_R
+    400076: Sholder_L
+    400078: Sholder_R
+    400080: spin_01
+    400082: spin_02
+    400084: spin_03
+    400086: tail_00
+    400088: tail_01
+    400090: tail_02
+    400092: tail_03
+    400094: tail_04
+    400096: Thigh_L
+    400098: Thigh_R
+    400100: tongue_01
+    400102: tongue_02
+    400104: tongue_03
+    400106: tongue_04
+    400108: Wolf
+    400110: German_shepherd
+    4300000: Wolf
+    4300002: German_shepherd
+    7400000: Bark
+    7400002: Bite
+    7400004: Bite2
+    7400006: Die
+    7400008: Drink
+    7400010: Eat
+    7400012: Fast_Walk
+    7400014: Fast_Walk2
+    7400016: Get_up
+    7400018: Growl
+    7400020: Howl
+    7400022: Idle
+    7400024: Lay_Down
+    7400026: Run
+    7400028: Run2
+    7400030: Sleep
+    7400032: Stop
+    7400034: Stop_001
+    7400036: Stop2
+    7400038: Walk
+    7400040: Walk2
+    7400042: Walk_cycle
+    9500000: //RootNode
+    13700000: Wolf
+    13700002: German_shepherd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bark
+      takeName: Bark
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bite
+      takeName: Bite
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bite2
+      takeName: Bite2
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Die
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drink
+      takeName: Drink
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat
+      takeName: Eat
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fast_Walk
+      takeName: Fast_Walk
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fast_Walk2
+      takeName: Fast_Walk2
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Get_up
+      takeName: Get_up
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Growl
+      takeName: Growl
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Howl
+      takeName: Howl
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lay_Down
+      takeName: Lay_Down
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run2
+      takeName: Run2
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sleep
+      takeName: Sleep
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stop
+      takeName: Stop
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stop2
+      takeName: Stop2
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk2
+      takeName: Walk2
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FATHER
+        weight: 1
+      - path: Armature/FATHER/spin_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_L/Thigh_L/Leg_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/Pelvis_R/Thigh_R/Leg_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/Belly
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Chest
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/ear_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Lyp_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/neck_02/neck_01/Head/Mouth/tongue_01/tongue_02/tongue_03/tongue_04
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Arm_Stretch_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_L/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Arm_Stretch_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/spin_02/spin_01/Sholder_R/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03
+        weight: 1
+      - path: Armature/FATHER/spin_03/tail_00/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: Armature/Foot_IK_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_IK_Pole_L
+        weight: 1
+      - path: Armature/Foot_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Foot_IK_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_IK_Pole_R
+        weight: 1
+      - path: Armature/Foot_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Forearm_IK_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Forearm_IK_Pole_L
+        weight: 1
+      - path: Armature/Forearm_IK_L/Hand_L
+        weight: 1
+      - path: Armature/Forearm_IK_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Forearm_IK_Pole_R
+        weight: 1
+      - path: Armature/Forearm_IK_R/Hand_R
+        weight: 1
+      - path: Wolf
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
